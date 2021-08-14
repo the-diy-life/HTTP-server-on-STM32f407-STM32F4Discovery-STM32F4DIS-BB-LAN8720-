@@ -1,0 +1,3 @@
+httpd_cgi_ssi.c:85:7:ADC_Handler	40	static
+httpd_cgi_ssi.c:129:14:LEDS_CGI_Handler	40	static
+httpd_cgi_ssi.c:173:6:http_server_init	8	static
